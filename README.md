@@ -21,7 +21,7 @@
 
 <h3 align="left">Onde me encontrar :</h3>
 <p align="left">
-    <a href="https://www.instagram.com/the_luii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+    <a href="https://www.instagram.com/the_luii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 <!--
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 -->

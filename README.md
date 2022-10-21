@@ -40,6 +40,6 @@
 </p>
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizroberto8022&show_icons=true&theme=tokyonight&title_color=f23574)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizroberto8022&layout=compact&theme=tokyonight&title_color=f23574)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babYoda8022&show_icons=true&theme=tokyonight&title_color=f23574)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babYoda8022&layout=compact&theme=tokyonight&title_color=f23574)](https://github.com/anuraghazra/github-readme-stats)
 
